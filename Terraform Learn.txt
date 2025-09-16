@@ -1,0 +1,14 @@
+1. Understand Infrastructure as Code (IaC) concepts.
+2. Install Terraform on your system.
+3. Learn basic Terraform syntax (HCL - HashiCorp Configuration Language).
+4. Explore Terraform providers and resources.
+5. Write your first Terraform configuration to provision simple infrastructure (e.g., a VM).
+6. Use `terraform init`, `terraform plan`, and `terraform apply` commands.
+7. Learn about state files and remote state management.
+8. Study variables, outputs, and data sources.
+9. Organize code using modules.
+10. Practice with real-world cloud providers (AWS, Azure, GCP).
+11. Learn about Terraform workspaces and environments.
+12. Explore best practices: version control, code structure, security.
+13. Read official documentation and tutorials: https://developer.hashicorp.com/terraform/tutorials
+14. Experiment and build projects to reinforce your learning.
